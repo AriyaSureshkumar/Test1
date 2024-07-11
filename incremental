@@ -498,5 +498,15 @@
     "department": "Sales",
     "salary": 115000,
     "hireDate": "2016-04-03"
+  },
+  {
+    "id": 51,
+    "firstName": "Christine",
+    "lastName": "Kim",
+    "email": "christine.kim@example.com",
+    "jobTitle": "Sales Director",
+    "department": "Sales",
+    "salary": 115000,
+    "hireDate": "2016-04-03"
   }
 ]
